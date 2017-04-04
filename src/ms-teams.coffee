@@ -30,7 +30,6 @@ class MSTeams extends Adapter
     @robot.logger.info "Started"
     @emit "connected"
     @send_url = process.env.MS_TEAMS_SEND_URL
-    @send "all", "This is your robot calling"
 
   exports.use = (robot) ->
     new MSTeams robot 
