@@ -1,0 +1,21 @@
+{
+  "name": "hubot-ms-teams",
+  "version": "1.0.0",
+  "description": "Hubot adapter for Microsoft Teams",
+  "main": "src/ms-teams.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hubot",
+    "teams"
+  ],
+  "author": "zegervdv",
+  "license": "MIT",
+  "dependencies": {
+    "parent-require": "^1.0.0"
+  },
+  "peerDependencies" : {
+    "hubot": ">=2.0"
+  }
+}
