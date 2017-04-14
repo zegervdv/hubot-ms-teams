@@ -12,6 +12,13 @@
   ],
   "author": "zegervdv",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zegervdv/hubot-ms-teams.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zegervdv/hubot-ms-teams/issues"
+  },
   "dependencies": {
     "parent-require": "^1.0.0"
   },
