@@ -12,6 +12,6 @@ Export the URL as `MS_TEAMS_SEND_URL`
 
 ### Reply to messages
 
-Hubot can reply to messages via the [custom bot](https://msdn.microsoft.com/en-us/microsoft-teams/custombot) interface.
+Hubot can reply to messages via the [API or .Net](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/bots/bots-conversations#replying-to-messages) interface.
 
 TODO
